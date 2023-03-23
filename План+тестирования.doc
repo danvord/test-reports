@@ -1,0 +1,671 @@
+Date: Thu, 23 Mar 2023 15:16:49 +0000 (UTC)
+Message-ID: <1435848064.35.1679584609350@644d817fa36e>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_34_1731040567.1679584609350"
+
+------=_Part_34_1731040567.1679584609350
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=D0=9F=D0=BB=D0=B0=D0=BD =D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=D0=9F=D0=BB=D0=B0=D0=BD =D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=
+=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=A7=D1=82=D0=BE=D0=BD=D0=B0=
+=D0=B4=D0=BE=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=
+=8C?">=D0=A7=D1=82=D0=BE =D0=BD=D0=B0=D0=B4=D0=BE =D1=82=D0=B5=D1=81=D1=82=
+=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C?</h1>
+<h2 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=92=D0=BA=D0=BB=D0=B0=D0=B4=D0=BA=
+=D0=B0=E2=80=9C=D0=A0=D0=B0=D1=81=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5=
+=E2=80=9D">=D0=92=D0=BA=D0=BB=D0=B0=D0=B4=D0=BA=D0=B0 =E2=80=9C=D0=A0=D0=B0=
+=D1=81=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5=E2=80=9D</h2>
+<h2 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=A0=D0=B0=D0=B1=D0=BE=D1=82=D0=B0=
+=D1=81=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=BC=D0=B8=D1=81=D0=BE=D0=B1=D1=8B=D1=
+=82=D0=B8=D1=8F=D0=BC=D0=B8">=D0=A0=D0=B0=D0=B1=D0=BE=D1=82=D0=B0 =D1=81 =
+=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=BC=D0=B8 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=
+=D0=B8=D1=8F=D0=BC=D0=B8</h2>
+<h2 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=A1=D0=B0=D0=B9=D1=82:https://teach=
+ers.skyeng.ru/schedule">=D0=A1=D0=B0=D0=B9=D1=82: <a class=3D"external-link=
+" href=3D"https://teachers.skyeng.ru/schedule" rel=3D"nofollow">https://tea=
+chers.skyeng.ru/schedule</a></h2>
+<h1 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=A7=D1=82=D0=BE=D0=B1=D1=83=D0=B4=
+=D1=83=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C?">=
+=D0=A7=D1=82=D0=BE =D0=B1=D1=83=D0=B4=D1=83 =D1=82=D0=B5=D1=81=D1=82=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C?</h1>
+<h3 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=9E=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=
+=D1=8B=D0=B5=D1=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F:=
+=D0=9F=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=B8=D1=82=D1=8C=D0=
+=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=
+=D0=BC=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D1=
+=8C=D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=B5=D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=
+=D1=8F=D0=B4=D0=BB=D1=8F=D1=81=D0=BE=D0=B1=D1=81=D1=82=D0=B2=D0=B5=D0=BD=D0=
+=BD=D1=8B=D1=85=D0=B2=D1=81=D1=82=D1=80=D0=B5=D1=87.">=D0=9E=D1=81=D0=BD=D0=
+=BE=D0=B2=D0=BD=D1=8B=D0=B5 =D1=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=
+=BD=D0=B8=D1=8F: =D0=9F=D1=80=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=
+=B8=D1=82=D1=8C =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=
+=82=D0=B5=D0=BB=D0=B5=D0=BC =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=
+=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=B5 =D1=81=D0=
+=BE=D0=B1=D1=8B=D1=82=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D1=81=D0=BE=D0=B1=D1=
+=81=D1=82=D0=B2=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B2=D1=81=D1=82=D1=80=D0=
+=B5=D1=87.</h3>
+<ul>
+<li><p><em>=D0=9F=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=
+=B5=D0=BB=D1=8C =D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B4=D0=BE=D0=B1=D0=B0=D0=
+=B2=D0=B8=D1=82=D1=8C =D0=BB=D0=B8=D1=87=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=
+=B1=D1=8B=D1=82=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D1=81=D0=BE=D0=B1=D1=81=D1=
+=82=D0=B2=D0=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B2=D1=81=D1=82=D1=80=D0=B5=D1=
+=87, =D0=BD=D0=B0=D0=BF=D0=BE=D0=BC=D0=B8=D0=BD=D0=B0=D0=BD=D0=B8=D0=B5 =D1=
+=82=D0=BE, =D1=87=D1=82=D0=BE =D1=83 =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=
+=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F =D1=87=D1=82=D0=BE-=D1=82=D0=BE =
+=D0=B7=D0=B0=D0=BF=D0=BB=D0=B0=D0=BD=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=BE =D0=BD=D0=B0 =D1=8D=D1=82=D0=BE =D0=B2=D1=80=D0=B5=D0=BC=D1=8F.</em></p=
+></li>
+<li><p><em>=D0=A1=D0=BE=D0=B2=D0=BC=D0=B5=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 =D0=
+=BB=D0=B8=D1=87=D0=BD=D0=BE=D0=B3=D0=BE =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=
+=B8=D1=8F =D0=B8 =D1=83=D1=80=D0=BE=D0=BA=D0=B0</em></p></li>
+<li><p>=D0=9F=D0=B5=D1=80=D0=B5=D0=BD=D0=BE=D1=81 =D1=83=D1=80=D0=BE=D0=BA=
+=D0=B0 =D0=B5=D1=81=D0=BB=D0=B8 =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=
+=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C =D0=BD=D0=B5 =D1=83=D1=81=D0=BF=D0=B5=
+=D0=B2=D0=B0=D0=B5=D1=82, =D0=B8=D0=BB=D0=B8 =D0=B5=D1=81=D1=82=D1=8C =D0=
+=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B8 =D0=BF=D1=80=D0=B8 =D1=81=D0=BE=D1=81=D1=
+=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8 =D1=80=D0=B0=D1=81=D0=BF=D0=
+=B8=D1=81=D0=B0=D0=BD=D0=B8=D1=8F =D0=B4=D0=BB=D1=8F =D0=BF=D1=80=D0=B5=D0=
+=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=B9 </p><p>=D0=
+=92=D1=81=D0=B5 =D1=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=
+=8F =D0=BC=D0=BE=D0=B6=D0=BD=D0=BE =D0=BF=D0=BE=D1=81=D0=BC=D0=BE=D1=82=D1=
+=80=D0=B5=D1=82=D1=8C =D0=BF=D0=BE =D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B5: <a=
+ class=3D"external-link" data-card-appearance=3D"inline" href=3D"https://sk=
+yengpublic.notion.site/bd5a4b593e2d46ff94cca0b455cb1684" rel=3D"nofollow">h=
+ttps://skyengpublic.notion.site/bd5a4b593e2d46ff94cca0b455cb1684</a> </p></=
+li>
+</ul>
+<p>=D0=91=D1=83=D0=B4=D1=83=D1=82 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D0=B4=D0=
+=B5=D0=BD=D1=8B =D1=81=D0=BB=D0=B5=D0=B4=D1=83=D1=8E=D1=89=D0=B8=D0=B5 =D0=
+=B2=D0=B8=D0=B4 =D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=
+=BD=D0=B8=D1=8F:</p>
+<ul>
+<li><p>=D0=A4=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=BE=D0=BD=D0=B0=D0=BB=D1=8C=
+=D0=BD=D0=BE=D0=B5 </p></li>
+<li><p>=D0=A2=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=
+=D0=B5 API</p></li>
+</ul>
+<h1 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=9A=D0=B0=D0=BA=D0=B1=D1=83=D0=B4=
+=D1=83=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C?">=
+=D0=9A=D0=B0=D0=BA =D0=B1=D1=83=D0=B4=D1=83 =D1=82=D0=B5=D1=81=D1=82=D0=B8=
+=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C?</h1>
+<h3 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-FunctionalTesting:">Functional Testing=
+:</h3>
+<p> =D0=9B=D0=B8=D1=87=D0=BD=D1=8B=D0=B5 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=
+=B8=D1=8F</p>
+<ul>
+<li><p>Check List: <a class=3D"external-link" data-card-appearance=3D"inlin=
+e" href=3D"https://chlist.sitechco.ru/project/32884/checklist" rel=3D"nofol=
+low">https://chlist.sitechco.ru/project/32884/checklist</a> </p></li>
+</ul>
+<p>Regression Testing:</p>
+<ul>
+<li><p>Check List: <a class=3D"external-link" data-card-appearance=3D"inlin=
+e" href=3D"https://chlist.sitechco.ru/project/32884/checklist" rel=3D"nofol=
+low">https://chlist.sitechco.ru/project/32884/checklist</a> </p></li>
+</ul>
+<p>Smoke Testing</p>
+<ul>
+<li><p>Test Case: <a class=3D"external-link" href=3D"https://app.qase.io/pr=
+oject/QA?view=3D1" rel=3D"nofollow">https://app.qase.io/project/QA?view=3D1=
+</a></p></li>
+</ul>
+<p>Acceptance Testing:</p>
+<ul>
+<li><p>Test Case <a class=3D"external-link" href=3D"https://app.qase.io/pro=
+ject/QA?view=3D1" rel=3D"nofollow">https://app.qase.io/project/QA?view=3D1<=
+/a></p></li>
+</ul>
+<h4 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-TestingAPI">Testing API</h4>
+<ul>
+<li><p>Test Case: <a class=3D"external-link" href=3D"https://app.qase.io/pr=
+oject/CO?view=3D1&amp;case=3D38&amp;suite=3D1" rel=3D"nofollow">https://app=
+.qase.io/project/CO?view=3D1&amp;case=3D38&amp;suite=3D1</a></p></li>
+<li><p>Postman Collection: <a class=3D"external-link" data-card-appearance=
+=3D"inline" href=3D"https://drive.google.com/file/d/1rSGwL5KOSTR5XZkzqNg6rR=
+kyehnB3FMk/view?usp=3Dshare_link" rel=3D"nofollow">https://drive.google.com=
+/file/d/1rSGwL5KOSTR5XZkzqNg6rRkyehnB3FMk/view?usp=3Dshare_link</a> </p></l=
+i>
+</ul>
+<p></p>
+<h1 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0=D0=B1=
+=D1=83=D0=B4=D0=B5=D0=BC=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=
+=B0=D1=82=D1=8C?">=D0=9A=D0=BE=D0=B3=D0=B4=D0=B0 =D0=B1=D1=83=D0=B4=D0=B5=
+=D0=BC =D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C?<=
+/h1>
+<p>=D0=A2=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D1=89=D0=B8=D0=BA: =D0=
+=94=D0=B0=D0=BD=D0=B8=D0=BB=D0=B0</p>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"0c762add-370d-405b-9819-eab=
+6f28bd23e" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p></p></th>
+<th class=3D"confluenceTh"><p><strong>=D0=94=D0=B0=D0=BD=D0=B8=D0=BB=D0=B0<=
+/strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=D0=A4=D1=83=D0=BD=D0=BA=D1=86=D0=B8=D0=BE=D0=
+=BD=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5</p></td>
+<td class=3D"confluenceTd"><p>21.08.2022-24.08.2022</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Smoke </p></td>
+<td class=3D"confluenceTd"><p>29.08.2022-29.08.2022</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Regress </p></td>
+<td class=3D"confluenceTd"><p>29.08.2022-30.08.2022</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>API</p></td>
+<td class=3D"confluenceTd"><p>04.11.202-11.11.2022</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h1 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=93=D0=B4=D0=B5=D0=B1=D1=83=D0=B4=
+=D1=83=D1=82=D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82=D1=8B=D1=
+=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F?">=D0=
+=93=D0=B4=D0=B5 =D0=B1=D1=83=D0=B4=D1=83=D1=82 =D1=80=D0=B5=D0=B7=D1=83=D0=
+=BB=D1=8C=D1=82=D0=B0=D1=82=D1=8B =D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F?</h1>
+<h1 id=3D"id-=D0=9F=D0=BB=D0=B0=D0=BD=D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F-=D0=91=D0=B0=D0=B3=D1=80=D0=B5=D0=BF=
+=D0=BE=D1=80=D1=82=D1=8B">=D0=91=D0=B0=D0=B3 =D1=80=D0=B5=D0=BF=D0=BE=D1=80=
+=D1=82=D1=8B</h1>
+<p>=D0=91=D0=B0=D0=B3 =D1=80=D0=B5=D0=BF=D0=BE=D1=80=D1=82=D1=8B =D0=BF=D0=
+=BE =D0=BD=D0=BE=D0=B2=D0=BE=D0=BC=D1=83 =D1=84=D1=83=D0=BD=D0=BA=D1=86=D0=
+=B8=D0=BE=D0=BD=D0=B0=D0=BB=D1=83: <a class=3D"external-link" href=3D"https=
+://hikarievangelou.atlassian.net/jira/software/c/projects/DHPY/issues" rel=
+=3D"nofollow">https://hikarievangelou.atlassian.net/jira/software/c/project=
+s/DHPY/issues</a></p>
+<p>=D0=91=D0=B0=D0=B3 =D1=80=D0=B5=D0=BF=D0=BE=D1=80=D1=82=D1=8B =D1=80=D0=
+=B5=D0=B3=D1=80=D0=B5=D1=81=D1=81 =D1=82=D0=B5=D1=81=D1=82=D0=B8=D1=80=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F <span class=3D"confluence-jim-macro jira-=
+issue" data-jira-key=3D"DHPY-8"> <a href=3D"https://hikarievangelou.atlassi=
+an.net/browse/DHPY-8" class=3D"jira-issue-key"><img class=3D"icon" src=3D"h=
+ttps://hikarievangelou.atlassian.net/rest/api/2/universal_avatar/view/type/=
+issuetype/avatar/10303?size=3Dmedium">DHPY-8</a> - <span class=3D"summary">=
+=D0=A1=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=BD=D0=B5 =D0=B4=D0=B0=D0=B5=
+=D1=82 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=
+=D0=BA =D0=B2=D0=BE =D0=BE=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=
+=D1=8B =D1=83=D1=80=D0=BE=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=B2=D1=8B=D0=B1=
+=D0=BE=D1=80=D0=B5 =D0=98=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=B8=D0=B2=
+=D0=B5 "=D0=A3=D1=87=D0=B8=D1=82=D0=B5=D0=BB=D1=8F" =D0=B8 =D0=BF=D1=80=D0=
+=B8=D1=87=D0=B8=D0=BD=D1=8B =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B "=D0=9B=D0=
+=B8=D1=87=D0=BD=D1=8B=D0=B5 =D0=9E=D0=B1=D1=81=D1=82=D0=BE=D1=8F=D1=82=D0=
+=B5=D0=BB=D1=8C=D1=81=D1=82=D0=B2=D0=B0"</span> <span class=3D"aui-lozenge =
+aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-pdf"=
+>Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-9=
+"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-9" class=3D=
+"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atlassi=
+an.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=3D=
+medium">DHPY-9</a> - <span class=3D"summary">=D0=A1=D0=B8=D1=81=D1=82=D0=B5=
+=D0=BC=D0=B0 =D0=BD=D0=B5 =D0=B4=D0=B0=D0=B5=D1=82 =D0=BE=D1=82=D0=BC=D0=B5=
+=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA =D0=B2=D0=BE =D0=BE=D0=BA=
+=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=D1=80=D0=BE=D0=BA=
+=D0=B0 =D0=BF=D1=80=D0=B8 =D0=B2=D1=8B=D0=B1=D0=BE=D1=80=D0=B5 =D0=98=D0=BD=
+=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=B8=D0=B2=D0=B5 "=D0=A3=D1=87=D0=B8=D1=82=
+=D0=B5=D0=BB=D1=8F" =D0=B8 =D0=BF=D1=80=D0=B8=D1=87=D0=B8=D0=BD=D1=8B =D0=
+=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B "=D0=9F=D1=80=D0=BE=D0=B1=D0=BB=D0=B5=D0=
+=BC=D1=8B =D1=81 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D0=BE=D0=
+=B9"</span> <span class=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-compl=
+ete jira-macro-single-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-1=
+0"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-10" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-10</a> - <span class=3D"summary">=D0=A1=D0=B8=D1=81=D1=82=
+=D0=B5=D0=BC=D0=B0 =D0=BD=D0=B5 =D0=B4=D0=B0=D0=B5=D1=82 =D0=BE=D1=82=D0=BC=
+=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA =D0=B2=D0=BE =D0=BE=
+=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=D1=80=D0=BE=
+=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=B2=D1=8B=D0=B1=D0=BE=D1=80=D0=B5 =D0=98=
+=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=B8=D0=B2=D0=B5 "=D0=A3=D1=87=D0=B8=
+=D1=82=D0=B5=D0=BB=D1=8F" =D0=B8 =D0=BF=D1=80=D0=B8=D1=87=D0=B8=D0=BD=D1=8B=
+ =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B "=D0=94=D1=80=D1=83=D0=B3=D0=B8=D0=B5=
+ =D1=82=D0=B5=D1=85=D0=BD=D0=B8=D1=87=D0=B5=D1=81=D0=BA=D0=B8=D0=B5 =D0=BF=
+=D1=80=D0=BE=D0=B1=D0=BB=D0=B5=D0=BC=D1=8B"</span> <span class=3D"aui-lozen=
+ge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-p=
+df">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-1=
+1"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-11" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-11</a> - <span class=3D"summary">=D0=A1=D0=B8=D1=81=D1=82=
+=D0=B5=D0=BC=D0=B0 =D0=BD=D0=B5 =D0=B4=D0=B0=D0=B5=D1=82 =D0=BE=D1=82=D0=BC=
+=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA =D0=B2=D0=BE =D0=BE=
+=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=D1=80=D0=BE=
+=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=B2=D1=8B=D0=B1=D0=BE=D1=80=D0=B5 =D0=98=
+=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=B8=D0=B2=D0=B5 "=D0=A3=D1=87=D0=B8=
+=D1=82=D0=B5=D0=BB=D1=8F" =D0=B8 =D0=BF=D1=80=D0=B8=D1=87=D0=B8=D0=BD=D1=8B=
+ =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B "=D0=9F=D1=80=D0=BE=D1=87=D0=B5=D0=B5=
+ "</span> <span class=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-complet=
+e jira-macro-single-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-1=
+2"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-12" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-12</a> - <span class=3D"summary">=D0=A1=D0=B8=D1=81=D1=82=
+=D0=B5=D0=BC=D0=B0 =D0=BD=D0=B5 =D0=B4=D0=B0=D0=B5=D1=82 =D0=BE=D1=82=D0=BC=
+=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA =D0=B2=D0=BE =D0=BE=
+=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=D1=80=D0=BE=
+=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=B2=D1=8B=D0=B1=D0=BE=D1=80=D0=B5 =D0=98=
+=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=B8=D0=B2=D0=B5 "=D0=A3=D1=87=D0=B5=
+=D0=BD=D0=B8=D0=BA=D0=B0"</span> <span class=3D"aui-lozenge aui-lozenge-sub=
+tle aui-lozenge-complete jira-macro-single-issue-export-pdf">Backlog</span>=
+ </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-1=
+3"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-13" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-13</a> - <span class=3D"summary">=D0=A1=D0=B8=D1=81=D1=82=
+=D0=B5=D0=BC=D0=B0 =D0=BD=D0=B5 =D0=B4=D0=B0=D0=B5=D1=82 =D0=BE=D1=82=D0=BC=
+=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA =D0=B2=D0=BE =D0=BE=
+=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=D1=80=D0=BE=
+=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D0=B5=
+=D0=BD=D0=B8=D1=8F =D0=BA=D0=BE=D0=BC=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=80=
+=D0=B8=D1=8F</span> <span class=3D"aui-lozenge aui-lozenge-subtle aui-lozen=
+ge-complete jira-macro-single-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-1=
+5"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-15" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-15</a> - <span class=3D"summary">=D0=A1=D0=B8=D1=81=D1=82=
+=D0=B5=D0=BC=D0=B0 =D0=BD=D0=B5 =D0=B4=D0=B0=D0=B5=D1=82 =D0=BE=D1=82=D0=BC=
+=D0=B5=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA =D0=B2=D0=BE =D0=BE=
+=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=D1=80=D0=BE=
+=D0=BA=D0=B0 =D0=BF=D0=BE =D0=B8=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=B8=
+=D0=B2=D0=B5 "=D0=A3=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=B0"</span> <span clas=
+s=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-=
+issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-2=
+5"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-25" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-25</a> - <span class=3D"summary">=D0=A3=D1=80=D0=BE=D0=BA =
+=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =
+=D0=B2 =D0=BE=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=
+=D1=80=D0=BE=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=BD=D0=B0=D0=B6=D0=B0=D1=82=
+=D0=B8=D0=B8 =D0=BA=D0=BD=D0=BE=D0=BF=D0=BA=D0=B8 "=D0=9E=D1=82=D0=BC=D0=B5=
+=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA"</span> <span class=3D"au=
+i-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-e=
+xport-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-2=
+5"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-25" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-25</a> - <span class=3D"summary">=D0=A3=D1=80=D0=BE=D0=BA =
+=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8F=D0=B5=D1=82=D1=81=D1=8F =
+=D0=B2 =D0=BE=D0=BA=D0=BD=D0=B5 =D0=BE=D1=82=D0=BC=D0=B5=D0=BD=D1=8B =D1=83=
+=D1=80=D0=BE=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=BD=D0=B0=D0=B6=D0=B0=D1=82=
+=D0=B8=D0=B8 =D0=BA=D0=BD=D0=BE=D0=BF=D0=BA=D0=B8 "=D0=9E=D1=82=D0=BC=D0=B5=
+=D0=BD=D0=B8=D1=82=D1=8C =D1=83=D1=80=D0=BE=D0=BA"</span> <span class=3D"au=
+i-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-e=
+xport-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-2=
+6"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-26" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-26</a> - <span class=3D"summary">=D0=A1=D0=B8=D1=81=D1=82=
+=D0=B5=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =
+=D1=84=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=
+=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC =D1=81=D0=BF=D0=B5=D1=86=
+=D1=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2 =D0=B2 =D0=BD=D0=B0=D1=81=
+=D1=82=D0=BE=D1=8F=D1=89=D0=B5=D0=BC =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=
+=D0=B5=D0=BC</span> <span class=3D"aui-lozenge aui-lozenge-subtle aui-lozen=
+ge-complete jira-macro-single-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-2=
+7"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-27" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-27</a> - <span class=3D"summary">C=D0=B8=D1=81=D1=82=D0=B5=
+=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=84=
+=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC =D1=81=D0=BF=D0=B5=D1=86=D1=81=
+=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2 =D0=B2 =D0=BF=D1=80=D0=BE=D1=88=
+=D0=BB=D0=BE=D0=BC =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=B8</span> <span =
+class=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-sin=
+gle-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-2=
+8"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-28" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-28</a> - <span class=3D"summary">C=D0=B8=D1=81=D1=82=D0=B5=
+=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=84=
+=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC =D1=81=D0=BF=D0=B5=D1=86=D1=81=
+=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2 =D0=B2 =D0=B1=D1=83=D0=B4=D1=83=
+=D1=89=D0=B5=D0=BC =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=B8 </span> <span=
+ class=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-si=
+ngle-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-2=
+9"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-29" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-29</a> - <span class=3D"summary">=D0=9F=D1=80=D0=B8 =D1=80=
+=D0=B5=D0=B4=D0=B0=D0=BA=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=
+=B5=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=
+=84=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC =D1=81=D0=BF=D0=B5=D1=86=D1=
+=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2</span> <span class=3D"aui-loz=
+enge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export=
+-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-3=
+0"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-30" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-30</a> - <span class=3D"summary">=D0=9F=D1=80=D0=B8 =D1=80=
+=D0=B5=D0=B4=D0=B0=D0=BA=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=
+=B5=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=
+=84=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC =D1=81=D0=BF=D0=B5=D1=86=D1=
+=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2 =D1=81 =D0=BF=D1=80=D0=BE=D1=
+=88=D0=BB=D0=BE=D0=BC</span> <span class=3D"aui-lozenge aui-lozenge-subtle =
+aui-lozenge-complete jira-macro-single-issue-export-pdf">Backlog</span> </s=
+pan> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-3=
+1"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-31" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-31</a> - <span class=3D"summary">=D0=9F=D1=80=D0=B8 =D1=80=
+=D0=B5=D0=B4=D0=B0=D0=BA=D1=82=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=D0=B8=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=
+=B5=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=
+=84=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=
+=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5=D0=BC =D1=81=D0=BF=D0=B5=D1=86=D1=
+=81=D0=B8=D0=BC=D0=B2=D0=BE=D0=BB=D0=BE=D0=B2 =D0=B2 =D0=B1=D1=83=D0=B4=D1=
+=83=D1=89=D0=B5=D0=BC </span> <span class=3D"aui-lozenge aui-lozenge-subtle=
+ aui-lozenge-complete jira-macro-single-issue-export-pdf">Backlog</span> </=
+span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-3=
+2"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-32" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-32</a> - <span class=3D"summary">=D0=9F=D1=80=D0=B8 =D1=81=
+=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D0=B8 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=
+=D0=B8=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=
+=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=84=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =
+=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5=D0=BC =D0=B4=D1=80=D1=83=D0=B3=D0=B8=D1=85 =D1=8F=D0=B7=D1=8B=D0=BA=D0=
+=BE=D0=B2</span> <span class=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-=
+complete jira-macro-single-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-3=
+3"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-33" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-33</a> - <span class=3D"summary">=D0=9F=D1=80=D0=B8 =D1=81=
+=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D0=B8 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=
+=D0=B8=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=
+=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=84=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =
+=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5=D0=BC =D0=B4=D1=80=D1=83=D0=B3=D0=B8=D1=85 =D1=8F=D0=B7=D1=8B=D0=BA=D0=
+=BE=D0=B2 =D0=B2 =D0=BF=D1=80=D0=BE=D1=88=D0=BB=D0=BE=D0=BC</span> <span cl=
+ass=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-singl=
+e-issue-export-pdf">Backlog</span> </span> </p>
+<p> <span class=3D"confluence-jim-macro jira-issue" data-jira-key=3D"DHPY-3=
+4"> <a href=3D"https://hikarievangelou.atlassian.net/browse/DHPY-34" class=
+=3D"jira-issue-key"><img class=3D"icon" src=3D"https://hikarievangelou.atla=
+ssian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=
+=3Dmedium">DHPY-34</a> - <span class=3D"summary">=D0=9F=D1=80=D0=B8 =D1=81=
+=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D0=B8 =D1=81=D0=BE=D0=B1=D1=8B=D1=82=
+=D0=B8=D1=8F =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0 =D0=BF=D1=80=D0=B8=
+=D0=BD=D0=B8=D0=BC=D0=B0=D0=B5=D1=82 =D1=84=D0=BE=D1=80=D0=BC=D1=83 =D1=81 =
+=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5=D0=BC =D0=B4=D1=80=D1=83=D0=B3=D0=B8=D1=85 =D1=8F=D0=B7=D1=8B=D0=BA=D0=
+=BE=D0=B2 =D0=B2 =D0=B1=D1=83=D0=B4=D1=83=D1=89=D0=B5=D0=BC</span> <span cl=
+ass=3D"aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-singl=
+e-issue-export-pdf">Backlog</span> </span> </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_34_1731040567.1679584609350--
